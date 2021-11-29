@@ -981,6 +981,7 @@ button {
     transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
     background-image: url(images/bgImage.jpg)no-repeat center fixed ghostwhite;
     background-position: center;
+    background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
     z-index: 1;
