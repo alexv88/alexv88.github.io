@@ -713,7 +713,6 @@ input[type="radio"]+label:before {
 /* Image */
 
 .image.main img:hover {
-    color: #424242;
     -webkit-transition: all .3s ease-in;
     -moz-transition: all .3s ease-in;
     -ms-transition: all .3s ease-in;
