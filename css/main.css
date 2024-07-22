@@ -719,10 +719,10 @@ input[type="radio"]+label:before {
     -o-transition: all .3s ease-in;
     transition: all .3s ease-in;
     opacity: 1;
-    transform: scale(1.15);
-    -ms-transform: scale(1.15);
+    transform: scale(3);
+    -ms-transform: scale(3);
     /* IE 9 */
-    -webkit-transform: scale(1.15);
+    -webkit-transform: scale(3);
     /* Safari and Chrome */
 }
 
